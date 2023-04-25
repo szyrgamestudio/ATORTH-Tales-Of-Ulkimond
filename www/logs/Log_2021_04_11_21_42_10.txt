@@ -1,0 +1,31 @@
+PHLoger
+Started
+----------
+Alpha ABS build
+1174
+----------
+Help and support
+https://discord.gg/8EE6PMv
+----------
+Patreon page
+https://www.patreon.com/KageDesu
+----------
+TypeError
+TypeError: Cannot read property 'forEach' of undefined
+    at Function.SlowUpdateManager.clearAll (chrome-extension://odlameecjipmbmbejkplpemijjgpljce/js/plugins/Alpha_ABS_build_1174.js:28961:22)
+    at Scene_Title.start (chrome-extension://odlameecjipmbmbejkplpemijjgpljce/js/plugins/Alpha_ABS_build_1174.js:45695:21)
+    at Function.SceneManager.updateScene (chrome-extension://odlameecjipmbmbejkplpemijjgpljce/js/rpg_managers.js:2019:25)
+    at Function.SceneManager.updateMain (chrome-extension://odlameecjipmbmbejkplpemijjgpljce/js/rpg_managers.js:1983:18)
+    at Function.SceneManager.update (chrome-extension://odlameecjipmbmbejkplpemijjgpljce/js/rpg_managers.js:1907:14)
+----------
+ERROR!
+Using AlphaABS [Build: 1174 ; on MV  1.6.1]
+----------
+ERROR!
+TypeError: Cannot read property 'forEach' of undefined
+    at Function.SlowUpdateManager.clearAll (chrome-extension://odlameecjipmbmbejkplpemijjgpljce/js/plugins/Alpha_ABS_build_1174.js:28961:22)
+    at Scene_Title.start (chrome-extension://odlameecjipmbmbejkplpemijjgpljce/js/plugins/Alpha_ABS_build_1174.js:45695:21)
+    at Function.SceneManager.updateScene (chrome-extension://odlameecjipmbmbejkplpemijjgpljce/js/rpg_managers.js:2019:25)
+    at Function.SceneManager.updateMain (chrome-extension://odlameecjipmbmbejkplpemijjgpljce/js/rpg_managers.js:1983:18)
+    at Function.SceneManager.update (chrome-extension://odlameecjipmbmbejkplpemijjgpljce/js/rpg_managers.js:1907:14)
+----------

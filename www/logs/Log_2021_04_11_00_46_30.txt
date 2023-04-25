@@ -1,0 +1,33 @@
+PHLoger
+Started
+----------
+Alpha ABS build
+1174
+----------
+Help and support
+https://discord.gg/8EE6PMv
+----------
+Patreon page
+https://www.patreon.com/KageDesu
+----------
+Error
+Error: Failed to load: js/plugins/SRCrazy_EventIndicators.js
+    at Function.PluginManager.checkErrors (chrome-extension://odlameecjipmbmbejkplpemijjgpljce/js/rpg_managers.js:2814:15)
+    at Function.SceneManager.checkPluginErrors (chrome-extension://odlameecjipmbmbejkplpemijjgpljce/js/rpg_managers.js:1886:19)
+    at Function.SceneManager.initialize (chrome-extension://odlameecjipmbmbejkplpemijjgpljce/js/rpg_managers.js:1816:10)
+    at Function.SceneManager.run (chrome-extension://odlameecjipmbmbejkplpemijjgpljce/js/rpg_managers.js:1802:14)
+    at Function.SceneManager.run (chrome-extension://odlameecjipmbmbejkplpemijjgpljce/js/plugins/YEP_CoreEngine.js:1370:34)
+    at window.onload (chrome-extension://odlameecjipmbmbejkplpemijjgpljce/js/main.js:8:18)
+----------
+ERROR!
+Using AlphaABS [Build: 1174 ; on MV  1.6.1]
+----------
+ERROR!
+Error: Failed to load: js/plugins/SRCrazy_EventIndicators.js
+    at Function.PluginManager.checkErrors (chrome-extension://odlameecjipmbmbejkplpemijjgpljce/js/rpg_managers.js:2814:15)
+    at Function.SceneManager.checkPluginErrors (chrome-extension://odlameecjipmbmbejkplpemijjgpljce/js/rpg_managers.js:1886:19)
+    at Function.SceneManager.initialize (chrome-extension://odlameecjipmbmbejkplpemijjgpljce/js/rpg_managers.js:1816:10)
+    at Function.SceneManager.run (chrome-extension://odlameecjipmbmbejkplpemijjgpljce/js/rpg_managers.js:1802:14)
+    at Function.SceneManager.run (chrome-extension://odlameecjipmbmbejkplpemijjgpljce/js/plugins/YEP_CoreEngine.js:1370:34)
+    at window.onload (chrome-extension://odlameecjipmbmbejkplpemijjgpljce/js/main.js:8:18)
+----------

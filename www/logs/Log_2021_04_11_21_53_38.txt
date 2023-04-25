@@ -1,0 +1,29 @@
+PHLoger
+Started
+----------
+Alpha ABS build
+1174
+----------
+Help and support
+https://discord.gg/8EE6PMv
+----------
+Patreon page
+https://www.patreon.com/KageDesu
+----------
+ReferenceError
+ReferenceError: video is not defined
+    at Scene_Title.update (chrome-extension://odlameecjipmbmbejkplpemijjgpljce/js/plugins/MOG_TitlePictureCom.js:731:2)
+    at Function.SceneManager.updateScene (chrome-extension://odlameecjipmbmbejkplpemijjgpljce/js/rpg_managers.js:2024:25)
+    at Function.SceneManager.updateMain (chrome-extension://odlameecjipmbmbejkplpemijjgpljce/js/rpg_managers.js:1983:18)
+    at Function.SceneManager.update (chrome-extension://odlameecjipmbmbejkplpemijjgpljce/js/rpg_managers.js:1907:14)
+----------
+ERROR!
+Using AlphaABS [Build: 1174 ; on MV  1.6.1]
+----------
+ERROR!
+ReferenceError: video is not defined
+    at Scene_Title.update (chrome-extension://odlameecjipmbmbejkplpemijjgpljce/js/plugins/MOG_TitlePictureCom.js:731:2)
+    at Function.SceneManager.updateScene (chrome-extension://odlameecjipmbmbejkplpemijjgpljce/js/rpg_managers.js:2024:25)
+    at Function.SceneManager.updateMain (chrome-extension://odlameecjipmbmbejkplpemijjgpljce/js/rpg_managers.js:1983:18)
+    at Function.SceneManager.update (chrome-extension://odlameecjipmbmbejkplpemijjgpljce/js/rpg_managers.js:1907:14)
+----------
